@@ -1,7 +1,6 @@
 ---
 title: "Final Project Rough Draft"
 author: "Sam Messer"
-date: "11/26/17"
 output: 
   html_document:
     fig_height: 3
